@@ -6,9 +6,9 @@ button:
   toggle_dark: გადართე მუქი რეჟიმი
   toggle_langs: ენის შეცვლა
 intro:
-  desc: Opinionated Vite Starter Template
+  aka: ასევე ცნობილი როგორც
+  desc: კეთილი იყოს თქვენი მობრძანება Sonic Circle-ში
   dynamic-route: დინამიური როუტინგის დემო
   hi: გამარჯობა, {name}!
-  aka: ასევე ცნობილი როგორც
   whats-your-name: რა გქვია?
 not-found: ვერ მოიძებნა

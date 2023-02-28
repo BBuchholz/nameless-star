@@ -6,7 +6,7 @@ button:
   toggle_dark: 다크모드 토글
   toggle_langs: 언어 변경
 intro:
-  desc: Vite 애플리케이션 템플릿
+  desc: Sonic Circle에 오신 것을 환영합니다
   dynamic-route: 다이나믹 라우트 데모
   hi: 안녕, {name}!
   whats-your-name: 이름이 뭐예요?

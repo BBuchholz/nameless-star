@@ -6,9 +6,9 @@ button:
   toggle_dark: Karanlık modu değiştir
   toggle_langs: Dilleri değiştir
 intro:
-  desc: Görüşlü Vite Başlangıç Şablonu
+  aka: Ayrıca şöyle bilinir
+  desc: Sonic Circle'a Hoş Geldiniz
   dynamic-route: Dinamik rota demosu
   hi: Merhaba, {name}!
-  aka: Ayrıca şöyle bilinir
   whats-your-name: Adınız nedir?
 not-found: Bulunamadı

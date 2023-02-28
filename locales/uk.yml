@@ -6,7 +6,7 @@ button:
   toggle_dark: Переключити темний режим
   toggle_langs: Змінити мову
 intro:
-  desc: Самостійний початковий шаблон Vite
+  desc: Ласкаво просимо до Sonic Circle
   dynamic-route: Демо динамічного маршруту
   hi: Привіт, {name}!
   whats-your-name: Як тебе звати?

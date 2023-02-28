@@ -6,9 +6,9 @@ button:
   toggle_dark: Dunkelmodus umschalten
   toggle_langs: Sprachen ändern
 intro:
-  desc: Vite Startvorlage mit Vorlieben
+  aka: Auch bekannt als
+  desc: Willkommen bei SonicCircle
   dynamic-route: Demo einer dynamischen Route
   hi: Hi, {name}!
-  aka: Auch bekannt als
   whats-your-name: Wie heißt du?
 not-found: Nicht gefunden
