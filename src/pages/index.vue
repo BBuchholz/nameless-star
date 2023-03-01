@@ -31,9 +31,9 @@ const { t } = useI18n()
       <em text-sm opacity-75>{{ t('intro.desc') }}</em>
     </p>
     <p>---</p>
-    <p>
-      What's next?
-    </p>
+    <RouterLink class="text-4xl -mb-6 m-auto" to="/agile" :title="t('button.agile')">
+      <p>What's next? (click me)</p>
+    </RouterLink>
     <p>---</p>
     <p>FUCK WITH THE STYLING (make all this prettier, I'm thinking IdeaComponent.vue or something to abstract the component)</p>
     <p>---</p>
