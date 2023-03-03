@@ -5,6 +5,7 @@ wxrdType: devSpec
 wxrdCreatedOn: 2023-03-01
 wxrdCreatedAt: 10-25-39
 wxrdSpecVersion: 1.0
+title: Agile Dev Strategies
 
 ---
 

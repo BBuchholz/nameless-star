@@ -37,7 +37,9 @@ const { t } = useI18n()
     <p>---</p>
     <p>FUCK WITH THE STYLING (make all this prettier, I'm thinking IdeaComponent.vue or something to abstract the component)</p>
     <p>---</p>
-    <p>ensure uuids on all ideas and have a vote button that pre-populates an email sent to circle admins when a user votes for an idea</p>
+    <RouterLink class="text-4xl -mb-6 m-auto" to="/to-do" :title="t('button.to-do')">
+      <p>To Do (click me)</p>
+    </RouterLink>
     <p>---</p>
     <p>setup "rounds" wherein you have anywhere between 1 and 4 Pomodoro sessions to do something to a mix and submit within a week, with your logged sessions to give credit for pragmatic expediency on the one hand and also patient devotion in the other, in this way participants earn placements within vector spaces of correlation (through commonality of medium)</p>
     <p>---</p>
