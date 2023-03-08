@@ -35,6 +35,10 @@ const { t } = useI18n()
       <p>What's next? (click me)</p>
     </RouterLink>
     <p>---</p>
+    <RouterLink class="text-4xl -mb-6 m-auto" to="/sc-portfolios" :title="t('button.to-do')">
+      <p>Portfolios (click me)</p>
+    </RouterLink>
+    <p>---</p>
     <p>FUCK WITH THE STYLING (make all this prettier, I'm thinking IdeaComponent.vue or something to abstract the component)</p>
     <p>---</p>
     <RouterLink class="text-4xl -mb-6 m-auto" to="/to-do" :title="t('button.to-do')">
