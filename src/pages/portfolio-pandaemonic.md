@@ -11,4 +11,4 @@ title: Sonic Circle - Pandaemonic
 
 ---
 
-- Nothing added yet
+- [Pandaemonic - Jus BABALONian Engineering (JusBE)](pandaemonic-jusbe)

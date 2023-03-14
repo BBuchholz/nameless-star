@@ -16,3 +16,4 @@ title: Sonic Circle - Perc90
 - [Perc90 - Beat 3](perc90-beat3)
 - [Perc90 - Beat 4](perc90-beat4)
 - [Perc90 - Beat 5](perc90-beat5)
+- [Perc90 - Beat 6](perc90-beat6)
