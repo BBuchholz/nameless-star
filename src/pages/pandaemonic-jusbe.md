@@ -36,3 +36,5 @@ Validation
 ```
 
 Selected Beat: [Perc90 - Beat 2](perc90-beat2)
+
+BandLab Project Link: [JusBE](https://www.bandlab.com/studio?id=0e33ffca-38c3-ed11-a8e0-000d3a3f8f45)
