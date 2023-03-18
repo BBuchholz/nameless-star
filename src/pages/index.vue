@@ -31,17 +31,21 @@ const { t } = useI18n()
       <em text-sm opacity-75>{{ t('intro.desc') }}</em>
     </p>
     <p>---</p>
-    <RouterLink class="text-4xl -mb-6 m-auto" to="/agile" :title="t('button.agile')">
+    <p class="text-4xl">
+      <a href="mailto:soniccirclesoundingboard@gmail.com?subject=Sonic%20Circle%20Idea%20Submission&body=uuid%3A%20REPLACE_THIS%0AcreatedAt%3A%20REPLACE_THIS%0A%0A---%20above%20this%20line%20is%20for%20internal%20purposes%2C%20add%20your%20idea%20below---%0A%0A">SUBMIT AN IDEA</a>
+    </p>
+    <p>---</p>
+    <RouterLink class="text-2xl -mb-6 m-auto" to="/agile" :title="t('button.agile')">
       <p>What's next? (click me)</p>
     </RouterLink>
     <p>---</p>
-    <RouterLink class="text-4xl -mb-6 m-auto" to="/sc-portfolios" :title="t('button.to-do')">
+    <RouterLink class="text-2xl -mb-6 m-auto" to="/sc-portfolios" :title="t('button.to-do')">
       <p>Portfolios (click me)</p>
     </RouterLink>
     <p>---</p>
     <p>FUCK WITH THE STYLING (make all this prettier, I'm thinking IdeaComponent.vue or something to abstract the component)</p>
     <p>---</p>
-    <RouterLink class="text-4xl -mb-6 m-auto" to="/to-do" :title="t('button.to-do')">
+    <RouterLink class="text-2xl -mb-6 m-auto" to="/to-do" :title="t('button.to-do')">
       <p>To Do (click me)</p>
     </RouterLink>
     <p>---</p>
