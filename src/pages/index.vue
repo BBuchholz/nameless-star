@@ -31,6 +31,10 @@ const { t } = useI18n()
       <em text-sm opacity-75>{{ t('intro.desc') }}</em>
     </p>
     <p>---</p>
+    <p class="text-2xl">
+      <a href="https://anxious-grove.netlify.app/">One of the MyriaD sites...</a>
+    </p>
+    <p>---</p>
     <p class="text-4xl">
       <a href="mailto:soniccirclesoundingboard@gmail.com?subject=Sonic%20Circle%20Idea%20Submission&body=uuid%3A%20REPLACE_THIS%0AcreatedAt%3A%20REPLACE_THIS%0A%0A---%20above%20this%20line%20is%20for%20internal%20purposes%2C%20add%20your%20idea%20below---%0A%0A">SUBMIT AN IDEA</a>
     </p>
